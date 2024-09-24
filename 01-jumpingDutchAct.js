@@ -1,5 +1,5 @@
 // Coding Challenge 2024
-// 01/999
+// 01/50
 // https://www.codewars.com/kata/570bcd9715944a2c8e000009
 
 
